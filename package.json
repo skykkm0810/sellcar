@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/skykkm0810/sellcar#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mocha": "^8.4.0"
   }
 }
